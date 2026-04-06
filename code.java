@@ -7,7 +7,7 @@ class hclcode{
             System.out.println("0");
         }
         else if (unit >= 101 && unit <= 200) {
-            System.out.println(unit * 0.8);
+            System.out.println(unit * 0.6);
         }
         else if(unit >= 201 && unit <= 300) {
             System.out.println(unit * 1.5);

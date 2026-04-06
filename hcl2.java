@@ -7,7 +7,7 @@ public class hcl2 {
         
         boolean situation = true; 
         char ch = 'a';
-        int num = 5;
+        int num = 6;
         long num2 = 2006L; 
         byte myByte = 100;
         short myShort = 5000;
